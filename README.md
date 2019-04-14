@@ -2,7 +2,7 @@
 
 # bootstrap 3 fullscreen carousel.
 
-You can use this as this code for your oen projects just make sure that all the files are linked properly.
+You can use this as this code for your own projects just make sure that all the files are linked properly.
 
 # BOOSTRAP v3.4.1 .
 # jquery v1.12.4 .
